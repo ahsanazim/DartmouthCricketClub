@@ -108,6 +108,14 @@ body, .appContainer {
   background-color: pink;
 }
 
+/* 7 */
+#group7 {
+  z-index: 0;
+}
+#group7 .parallax__layer--base {
+  background-color: pink;
+}
+
 /* essentially the footer */
 #groupLast {
   z-index: 0;

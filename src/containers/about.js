@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-class Calendar extends Component {
+class About extends Component {
 
   componentWillMount() {
   }
 
   render() {
     return (
-      <div className="title">Calendar</div>
+      <div className="title">About</div>
     );
   }
 }
@@ -23,4 +23,4 @@ const mapDispatchToProps =
   };
 
 // react-redux glue
-export default connect(mapStateToProps, mapDispatchToProps)(Calendar);
+export default connect(mapStateToProps, mapDispatchToProps)(About);
