@@ -22,7 +22,7 @@ For local development, type `npm start`, and visit `http://localhost:8080/`.
 
 **Demo**:
 
-The starter website is deployed at [reactCSSparallax.surge.sh](reactCSSparallax.surge.sh).
+The starter website is deployed at [reactCSSparallax.surge.sh](http://reactcssparallax.surge.sh/).
 
 There's a gif below as well, but needless to say, it's much choppier than the real thing!
 
