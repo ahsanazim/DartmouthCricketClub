@@ -12,7 +12,7 @@ Also has the latest best-practices:
 
 Note that the components currently have been given proxy names ('About', 'News', etc.), but
 they can be easily changed. The main point is to demonstrate effective and
-portable parallax with
+portable parallax with only CSS. The 2016-era frotend env is a plus!
 
 **Usage**:
 
